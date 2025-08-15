@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:beige
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:beige
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(10, 10, 10);}
+
+button {
+    background-color: chartreuse;
+     margin: 10px auto;         
+    padding: 10px; 
+}
+
+.container {
+width: 300px;              
+    margin: 50px auto;         
+    padding: 20px;             
+    border: 2px solid #333;    
+    border-radius: 10px;       
+    background-color: #f4f4f4; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
+    text-align: center; 
+}
+
+body {
+background-image:url('https://img.freepik.com/free-vector/abstract-red-circle-black-background-technology_1142-9839.jpg');
+ background-size: cover;   
+ background-repeat: no-repeat; 
+background-position: center;
+}
+
+footer {
+    background-color: #fa0606;
+    text-align: center;
+    padding: 10px 10px;
+    position: fixed;
+    display: flex; 
+    width: 100%;                
+    height: 50px;  
+    align-items: center; 
+    bottom: 0;
+    justify-content: center;
+}
+
+.FooterText {
+color: black;
+ margin: 0;
+}
